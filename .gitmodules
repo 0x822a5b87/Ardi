@@ -1,3 +1,6 @@
 [submodule "ucore"]
 	path = ucore
 	url = git@github.com:LearningOS/2025a-rcore-0x822a5b87.git
+[submodule "rustling"]
+	path = rustling
+	url = git@github.com:LearningOS/2025a-rustling-0x822a5b87.git
