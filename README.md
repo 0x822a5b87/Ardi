@@ -6,7 +6,7 @@ The name `Ardi` is a shortcut for `Ardipithecus`, which indicates the earliest k
 
 The project is separated into two parts: 
 - [ucore](https://learningos.cn/rCore-Tutorial-Guide/index.html) is developed by `rust` and `riscv`. However, it does not dive into specific details.
-- `hominid` is developed by `c` and `nasm`,  and it's a more complex version that focuses on details.
+- `hominid` is developed by `c` and `x86`,  and it's a more complex version that focuses on details.
 
 ## Appendix
 
